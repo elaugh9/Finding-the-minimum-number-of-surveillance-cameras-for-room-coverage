@@ -1,0 +1,2 @@
+# Finding-the-minimum-number-of-surveillance-cameras-for-room-coverage
+A program that takes the map of the room as an input and returns the locations of the cameras. The cameras need to cover all spots in the room with a minimum number of cameras. Our program takes as input a text file that represents the map of a  room as a grid. Using Best-first search algorithms (Greedy search &amp; A*) and Local search algorithms (Hill climbing &amp; Simulated annealing) to find the minimum number of cameras that covers all the cells. 
